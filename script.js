@@ -6,19 +6,21 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "você concorda que racismo é crime?",
         alternativas: [
             {
-                texto: "Alternativa 1 da pergunta 1",
+                texto: "sim,concordo",
                 afirmacao: [
-                    "afirmacao 1",
+                    "racismo pode levar a suicidio, depresão, má convivência com familiares, baixa estima, entre outras consequências que não leva a pessoa para frente e sim a ter pensamentos ruins. 
+",
                     "afirmacao 2"
                     ]
             },
             {
-                texto: "Alternativa 2 da pergunta 1",
+                texto: "não, não concordo",
                 afirmacao: [
-                    "afirmacao 1",
+                    "vocẽ não está certo. racismo é crime por ser um desrespeito a vítima.
+",
                     "afirmacao 2"
                     ]
             }           
