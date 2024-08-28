@@ -1,4 +1,4 @@
-const perguntas = [
+export const perguntas = [
     {
         enunciado: "você concorda que racismo é crime?",
         alternativas: [
