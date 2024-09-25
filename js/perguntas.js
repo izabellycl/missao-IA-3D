@@ -1,20 +1,18 @@
 export const perguntas = [
     {
-        enunciado: "você concorda que racismo é crime?",
+        enunciado: "O que caracteriza o racismo estrutural na sociedade?",
         alternativas: [
             {
-                texto: "sim,concordo",
+                texto: "Desigualdades raciais",
                 afirmacao: [
-                    "racismo pode levar a suicidio, depresão, má convivência com familiares, baixa estima, entre outras consequências que não leva a pessoa para frente e sim a ter pensamentos ruins. 
-",
+                    "São perpetuadas por instituições, políticas e normas sociais.",
                     "afirmacao 2"
                     ]
             },
             {
-                texto: "não, não concordo",
+                texto: "Discriminação individual",
                 afirmacao: [
-                    "vocẽ não está certo. racismo é crime por ser um desrespeito a vítima.
-",
+                    "Apenas a discriminações individual e direta afeta a sociedade",
                     "afirmacao 2"
                     ]
             }           
@@ -22,38 +20,38 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "principal dano causado pelo racismo",
         alternativas: [
             {
-                texto:"Alternativa 1 da pergunta 2",
+                texto:"fortalece a autoestima das vitimas",
                 afirmacao: [
-                    "afirmacao 1",
+                    "racismo enfraquece a autoestima, perpetuando sentimentos de inferioridade",
                     "afirmacao 2"
                     ]
             },
             {
-                texto: "Alternativa 2 da pergunta 2",
+                texto: "contribui para a exclusão social e marginalização de grupos minoritarios ",
                 afirmacao: [
-                    "afirmacao 1",
+                    "reforça a desigualdade e estereótipos discriminatórios",
                     "afirmacao 2"
                     ]
             }
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "você apoia racismo?",
         alternativas: [
             {
-                texto:"Alternativa 1 da pergunta 3",
+                texto:"sim, eu apoio o movimento racista",
                 afirmacao: [
-                    "afirmacao 1",
+                    "você realmente já ouviu  falar o que é o racismo?  A sua história e quantas milhares de pessoa foram prejudicadas e mortas? ",
                     "afirmacao 2"
                     ]
             },
             {
-                texto:"Alternativa 2 da pergunta 3",
+                texto:"Não, sou contra o movimento racista",
                 afirmacao: [
-                    "afirmacao 1",
+                    "que legal! concordamos que o racismo não é uma coisa boa ",
                     "afirmacao 2"
                     ]
             }
